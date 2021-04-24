@@ -5,7 +5,7 @@ Created on Wed Apr 14 19:23:51 2021
 @author: sutir
 """
 
-
+##find all the landmarks using mediapipe
  
 import cv2
 import mediapipe as mp
