@@ -1,3 +1,5 @@
+#control master volume by changing the distance between the tips of the thumb and the index finger.
+
 import cv2
 import time
 import numpy as np
