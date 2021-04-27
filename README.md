@@ -1,2 +1,2 @@
 # Experiments
-Things I try to build at 3am
+Traccking hand and finger motion and gestures with the webcam and performing various tasks based on it.
